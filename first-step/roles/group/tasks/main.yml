@@ -1,0 +1,6 @@
+---
+- name: create test-group
+  win_group:
+    name: test-group
+    descriptsion: test group
+    state: present

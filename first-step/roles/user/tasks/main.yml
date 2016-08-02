@@ -1,0 +1,6 @@
+---
+- name: Add User
+  win_user:
+    name: test
+    password: "@Password1"
+    groups: ["test-group"]
