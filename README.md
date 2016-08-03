@@ -1,10 +1,11 @@
-# ansible windows samples
+# ansible and serverspec windows samples
 
-This is a sample of ansible windows.
+This is a sample of ansible/serverspec.
 
 ## Requires
 
 * ansible2.1.0
+* serverspec
 
 ## first-step
 
